@@ -1,1 +1,2 @@
 # RTT_DHT11
+基于RTT的DHT11，用到了双线程，DHT库
